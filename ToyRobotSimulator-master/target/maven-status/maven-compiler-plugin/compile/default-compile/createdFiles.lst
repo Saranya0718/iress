@@ -1,0 +1,11 @@
+com\iress\toyrobot\exception\ToyRobotException.class
+com\iress\toyrobot\simulator\Command.class
+com\iress\toyrobot\simulator\ToyRobot.class
+com\iress\toyrobot\Main.class
+com\iress\toyrobot\simulator\Board.class
+com\iress\toyrobot\simulator\Position.class
+com\iress\toyrobot\Game$1.class
+com\iress\toyrobot\simulator\SquareBoard.class
+com\iress\toyrobot\simulator\Position$1.class
+com\iress\toyrobot\simulator\Direction.class
+com\iress\toyrobot\Game.class
